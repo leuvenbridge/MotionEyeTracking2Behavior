@@ -4,6 +4,7 @@
          input:   raw Vicon marker and eye data
 
          output:  behavior data including
+         
          1) horizontal head position
          2) head height
          3) translational speed
