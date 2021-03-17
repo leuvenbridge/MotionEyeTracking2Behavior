@@ -1,6 +1,8 @@
 # MotionEyeTracking2Behavior
 3D transformation of raw Vicon marker and eye tracking data to rotation and translation data
+
 input:   raw Vicon marker and eye data
+
 output:  behavior data including
          1) horizontal head position
          2) head height
